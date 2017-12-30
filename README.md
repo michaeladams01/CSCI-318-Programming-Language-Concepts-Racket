@@ -1,3 +1,2 @@
 # Racket
-Hello there,
-I am currently on the racket track. 
+CSCI 318 (Programming Language Concepts) 
